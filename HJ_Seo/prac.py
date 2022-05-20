@@ -45,12 +45,3 @@ import numpy as np #pandas, matplotlib 안깔림
 
 # print(result)
 
-
-asd = {1:2,3:4}
-
-for i in asd:
-    print(i)
-
-print(asd)
-
-print([] is True)
